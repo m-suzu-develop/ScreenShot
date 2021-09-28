@@ -1,0 +1,4 @@
+2021-09-27 17:02:19,924 - __main__ - ERROR - Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: headless chrome=94.0.4606.61)
+
+2021-09-27 17:02:19,925 - __main__ - ERROR - Program error End
